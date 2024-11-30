@@ -73,6 +73,13 @@
         <a href="https://portfolio.com" class="link-button">Portfolio</a>
         <div>Prima modifica</div>
         <div class="div-clss-first">Seconda modifica</div>
+        <label>Lista animali</label>
+        <ul>
+            <li>Cane</li>
+            <li>Gatto</li>
+            <li>Lupo</li>
+            <li>Provione</li>
+        </ul>
     </div>
 </body>
 </html>
